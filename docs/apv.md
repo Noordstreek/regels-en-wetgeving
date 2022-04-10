@@ -1,24 +1,24 @@
-# Algemene Plaatselijke Verordening Tedeapolis
+# Algemene Plaatselijke Verordening Noordstreek
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis|
-| Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis|
+| Overheidsorganisatie      | Hoge Raad Noordstreek |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Noordstreek|
+| Citeertitel               | Algemene Plaatselijke Verordening Noordstreek|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Noordstreek, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Tedeapolis.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Noordstreek.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
@@ -51,10 +51,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek Tedeapolis (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Tedeapolis.
+1. Aanvullend op de APV is er het Wetboek Noordstreek (WNSR), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Noordstreek.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
-   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend.
+   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WNSR. Dan is deze leidend.
 3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
 ## Overtredingen - Verstoring openbare orde (RP)
@@ -116,7 +116,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
 6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
-7. Wanneer je met meerdere mensen die op tedeapolis spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
+7. Wanneer je met meerdere mensen die op Noordstreek spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 1e categorie.
 9. Om een overvalscenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.
 10. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
@@ -125,7 +125,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 1. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep. Wordt dit niet gedaan, zal er gestraft worden met een straf volgens de 2e categorie.
 2. Hij/zij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 2e categorie.
-3. Officiële kleding verstrekt vanuit Tedeapolis bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is. 
+3. Officiële kleding verstrekt vanuit Noordstreek bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is.
 4. Overtreding van lid 3 zal worden bestraft met een straf uit van de 1e categorie.
 5. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
     * Politie
@@ -160,7 +160,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
-3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig, pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen is [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/) te vinden.
+3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig, pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen is [hier](https://wetboek.Noordstreek.nl/offroadvoertuigen/) te vinden.
 4. De overtreding zoals beschreven in lid 1 staat bekend als “GTA driving”
 
 ### Artikel 11 - Value of Life
@@ -172,7 +172,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
-    * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen. 
+    * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen.
     * Het valt onder no value of life om de noodknop in te drukken terwijl iemand een vuurwapen, steekwapen of slagwapen op je richt.
     * Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steek- of slagwapen.
     * Ook valt het niet onder no value of life om een vuurwapen te trekken als je bedreigd wordt met een steek- of slagwapen.
@@ -199,7 +199,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 15 - Reporting
 
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
-2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de TDA Discord.
+2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de NSR Discord.
 3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Staff kiest zelf het moment om aan te geven dat zij aanwezig zijn en doen dit pas wanneer zij vinden dat zij genoeg hebben gezien. Aangeven dat er een report is gemaakt of dat Staff meekijkt zorgt er meestal voor dat er geen straffen kunnen worden uitgedeeld.
 4. Het overtreden van lid 3 zal resulteren in een straf volgens de 2e categorie.
 
@@ -260,7 +260,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Een cardealer dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
 5. Bij overtreding van lid 1, 2, 3 en/of 4 zullen gestraft worden middels een straf volgens de 2e categorie.
 6. Tevens zullen alle voertuigen weggehaald worden middels /dvf.
-7. Bij Carmeetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie. 
+7. Bij Carmeetings mogen maximaal 20 voertuigen aanwezig zijn. Wordt er geconstateerd door een stafflid, dat er teveel voertuigen aanwezig zijn en de server daar problemen door ondervindt, dan zal er aan de organisator een straf worden uitgedeeld van minimaal de 2e categorie.
 
 ## Overtredingen - Schade des persoons
 
@@ -359,7 +359,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Bij een overtreding van het ledenaantal genoemd in lid 1 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) & deelnemers van de organisatie.
 3. Bij herhaling van het overtreden van lid 1, zal er een straf van de 2e categorie volgen.
 4. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplayscenario houden, dit mag met hun volledige organisatie of met leden van andere Officiële of onofficiële gangs of personen, mits dit een geldige en logische reden heeft in de roleplay.
-5. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat en met uitzondering van het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Tedeapolis.
+5. Criminele organisaties mogen onderling met elkaar samenwerken met een maximum van 2 organisaties in een tijdsduur van 2 uur, op voorwaarde dat er geen volledige samenwerking tussen alle organisaties ontstaat en met uitzondering van het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Noordstreek.
 6. Bij overtreding van lid 4 & 5 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 7. Bij herhaling van het overtreden van lid 4 & 5, wordt er naast de straf van de 5e categorie ook een gang strike uitgedeeld.
 
@@ -466,7 +466,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 47 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+2. Wanneer je met meerdere mensen die op Noordstreek spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
 3. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 4. Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 5. Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
@@ -591,7 +591,7 @@ Onderstaande regels tellen alleen op Narcopolis
 * Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
 * Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
 * Geen Overheidsvoertuigen stelen of kleding dragen.(Politie, ambulance en ANWB auto’s mogen niet door burgers gereden worden).
-* Geen Cop-baiting (politie uitdagen/uitlokken).
+* Geen Cop-baiting (politie uiNSRgen/uitlokken).
 * Geen Spam (de chat vol spammen met nutteloze berichten)
 * Geen Combat Logging (Zomaar de server verlaten tijden bijvoorbeeld een ontvoering).
 * Niet overdreven schelden. (Geen Kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet. Hier wordt extra streng op gestraft.)
@@ -620,7 +620,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Bijlage 1
 
-![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
+![bijlage-1](https://Noordstreek.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Noordstreek”, opgetekend door Bram Mosterdfiets, te Noordstreek.
