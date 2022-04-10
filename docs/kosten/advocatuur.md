@@ -1,6 +1,6 @@
 # Advocatuur
 
-Heeft u juridische bijstand nodig, dan kan de advocatuur van Tedeapolis u helpen.
+Heeft u juridische bijstand nodig, dan kan de advocatuur van Noordstreek u helpen.
 Contracten opstellen, juridische vragen, en bijstand tijdens een verhoor.. de advocatuur is er om uw recht te verdedigen.
 
 Kosten voor de advocatuur zijn afhankelijk van een aantal factoren.
@@ -12,7 +12,7 @@ Wanneer u verdachte bent in een (straf)zaak, heeft u **altijd** recht op een adv
 De kosten voor een Pro Deo advocaat zijn geraamd op €2500,- per half uur (of een deel daarvan), en zijn voor rekening van de overheid. Het Pro Deo tarief is tevens een indicatie van de gemiddelde prijs van een advocaat wanneer u deze *zelf* inhuurt.
 
 Een voorbeeld:
-Elk half uur is € 2500,- 
+Elk half uur is € 2500,-
 
 | Zaak lengte | Totaalprijs |
 |---|---|
