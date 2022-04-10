@@ -16,8 +16,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  favicon: img/logoTedeapolis.png
-  logo: img/logoTedeapolis.png
+  favicon: img/noordstreek.png
+  logo: img/noordstreek.png
   custom_dir: docs/overrides
   language: nl
 markdown_extensions:
