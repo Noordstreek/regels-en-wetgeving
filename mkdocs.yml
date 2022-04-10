@@ -1,6 +1,6 @@
 # Project information
-site_name: Noordstreek Roleplay
-site_author: Drogaz#6521
+site_name: NOORDSTREEK - Regel & wetgeving
+site_author: Noordstreek
 
 copyright: Copyright &copy; 2021 - 2022 Noordstreek
 
@@ -36,7 +36,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Tedeapolis: streamen.md
+  - Streamen op Noordstreek: streamen.md
   - Offroad Voertuigen: offroadvoertuigen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
