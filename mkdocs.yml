@@ -30,15 +30,15 @@ extra_javascript:
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
-  - Wetboek: wetboek.md
-  - Risicogebieden: risico-gebieden.md
-  - Douanegebieden: douanegebieden.md
-  - NOTAM: notam.md
-  - Belastingen: belastingen.md
-  - Regelement voor de rechtspraak: rechtspraak.md
+ # - Wetboek: wetboek.md
+ # - Risicogebieden: risico-gebieden.md
+ # - Douanegebieden: douanegebieden.md
+ # - NOTAM: notam.md
+ # - Belastingen: belastingen.md
+ # - Regelement voor de rechtspraak: rechtspraak.md
   - Streamen op Noordstreek: streamen.md
   - Offroad Voertuigen: offroadvoertuigen.md
-  - Kosten:
+ # - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
     - ANWB: kosten/anwb.md
