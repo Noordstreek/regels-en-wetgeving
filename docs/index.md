@@ -9,10 +9,9 @@ Zorg ervoor, dat je voor je deelneemt aan Noordstreek, kennis hebt genomen van d
 - Het Wetboek Noordstreek bevat alle wetten voor de burgers.
 - Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
+
 ## Officiële discord servers
-
-Noordstreek heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
-
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Noordstreek RolePlay| Main discord server van Noordstreek | [Invite](https://discord.gg/noordstreek) |
+|Noordstreek RolePlay| Main discord | [Invite](https://discord.gg/noordstreek) |
+|Noordstreek Support| Support discord | [Invite](https://discord.gg/noordstreek) |
