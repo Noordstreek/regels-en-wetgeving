@@ -15,4 +15,4 @@ Noordstreek heeft verschillende discord servers die zijn goed gekeurd door het s
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Noordstreek RolePlay| Main discord server van Noordstreek | [Invite](https://discord.gg/un8P4CtySB) |
+|Noordstreek RolePlay| Main discord server van Noordstreek | [Invite](https://discord.gg/noordstreek) |
