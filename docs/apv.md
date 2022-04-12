@@ -7,7 +7,7 @@
 | Overheidsorganisatie      | Hoge Raad Noordstreek |
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Noordstreek|
 | Citeertitel               | Algemene Plaatselijke Verordening Noordstreek|
-| Vastgesteld door          | De Hoge Raad|
+| Vastgesteld door          | Het Bestuur|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
