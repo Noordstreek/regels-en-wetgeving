@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Noordstreek |
+| Overheidsorganisatie      | Bestuur Noordstreek |
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Noordstreek|
 | Citeertitel               | Algemene Plaatselijke Verordening Noordstreek|
 | Vastgesteld door          | Het Bestuur|
