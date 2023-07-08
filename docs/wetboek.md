@@ -1,15 +1,25 @@
-# Wetboek Noordstreek
+# Ministerie van Justitie en Veiligheid
 
-## Wetstechnische informatie
+## Wettenbundel - Noordstreek
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Noordstreek |
+| Overheidsorganisatie      | Ministerie van Justitie en Veiligheid |
 | Officiële naam            | Algemeen Wetboek Noordstreek |
-| Citeertitel               | Wetboek Noordstreek |
+| Citeertitel               | Wettenbundel Noordstreek |
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid |
+## Grondbeginselen
 
+1. Deze grondbeginselen dienen te worden nageleefd. Indien dit niet het geval is zal er een OvJ ter sprake komen (mocht deze op dat moment niet beschikbaar zijn dient de verdachte vrijgelaten te worden).
+2. Bij een aanhouding van een verdachte dient de verdachte kenbaar gemaakt te worden wat de reden van aanhouding is.
+3. De maximaal strafmaat bedraagt 120 maanden
+4. Bij de aanhouding van een verdachte en vooraf aan het verhoor dient de verdachte zijn/haar rechten te horen. De mededeling van de rechten wordt opgenomen in het proces-verbaal.
+   De rechten zijn al volgt:
+   - U wordt verteld waarvan u wordt verdacht.
+   - U heeft het recht om te zwijgen.
+   - U heeft het recht op een advocaat.
+     
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
