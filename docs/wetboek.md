@@ -9,6 +9,8 @@
 | Citeertitel               | Wettenbundel Noordstreek |
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid |
+
+
 ## Grondbeginselen
 
 1. Deze grondbeginselen dienen te worden nageleefd. Indien dit niet het geval is zal er een OvJ ter sprake komen (mocht deze op dat moment niet beschikbaar zijn dient de verdachte vrijgelaten te worden).
@@ -16,9 +18,9 @@
 3. De maximaal strafmaat bedraagt 120 maanden
 4. Bij de aanhouding van een verdachte en vooraf aan het verhoor dient de verdachte zijn/haar rechten te horen. De mededeling van de rechten wordt opgenomen in het proces-verbaal.
    De rechten zijn al volgt:
-   - U wordt verteld waarvan u wordt verdacht.
-   - U heeft het recht om te zwijgen.
-   - U heeft het recht op een advocaat.
+   * U wordt verteld waarvan u wordt verdacht.
+   * U heeft het recht om te zwijgen.
+   * U heeft het recht op een advocaat.
      
 ## Algemene Bepalingen
 
