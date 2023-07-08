@@ -8,7 +8,7 @@
 | Officiële naam            | Algemeen Wetboek Noordstreek |
 | Citeertitel               | Wettenbundel Noordstreek |
 | Vastgesteld door          | De Hoge Raad|
-| Versie                 | 090972023 |
+| Versie                 | 1.1 - 09/07/2023 |
 
 
 ## Grondbeginselen
