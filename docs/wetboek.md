@@ -8,7 +8,7 @@
 | Officiële naam            | Algemeen Wetboek Noordstreek |
 | Citeertitel               | Wettenbundel Noordstreek |
 | Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid |
+| Versie                 | 090972023 |
 
 
 ## Grondbeginselen
