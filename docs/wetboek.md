@@ -18,9 +18,9 @@
 3. De maximaal strafmaat bedraagt 120 maanden
 4. Bij de aanhouding van een verdachte en vooraf aan het verhoor dient de verdachte zijn/haar rechten te horen. De mededeling van de rechten wordt opgenomen in het proces-verbaal.
    De rechten zijn al volgt:
-   * U wordt verteld waarvan u wordt verdacht.
-   * U heeft het recht om te zwijgen.
-   * U heeft het recht op een advocaat.
+    * U wordt verteld waarvan u wordt verdacht.
+    * U heeft het recht om te zwijgen.
+    * U heeft het recht op een advocaat.
      
 ## Algemene Bepalingen
 
@@ -39,7 +39,7 @@
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-    * Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
+CVoor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
     * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
     * Voor misdrijven waar de totale strafeis tussen de 86 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
     * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 45 dagen;
