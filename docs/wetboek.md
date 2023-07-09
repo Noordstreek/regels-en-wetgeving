@@ -30,17 +30,17 @@
     * De verdachte mag altijd kenbaar maken wanneer zijn/haar iets niet bedrijpt.
     *  In het geval als de (H)OvJ beslist dat de verdachte op het (politie) bureau moet blijven, dan mag de verdachte vragen om een familielid of huisgenuit in te laten lichten dat u wordt vastgehouden.Soms kan de (H)OvJ beslissen dat dit tijdelijk nog niet mag. Hij laat u dit dan weten.
   
-6. De verklaring van een beedigde opsporingsambtenaar geldt als voldoende bewijs voor een strafrechtelijke veroordeling.
-7. Indien de verdachte gebruik wilt maken van een advocaat zal er een pro-deo advocaat toegewezen worden vanuit het OM, en zullen de kosten voor de staat zijn. In het geval dat de verdachte een specifieke advocaat wilt, of een eigen advocaat heeft zijn de kosten voor de verdachte.
+G6. De verklaring van een beedigde opsporingsambtenaar geldt als voldoende bewijs voor een strafrechtelijke veroordeling.
+G7. Indien de verdachte gebruik wilt maken van een advocaat zal er een pro-deo advocaat toegewezen worden vanuit het OM, en zullen de kosten voor de staat zijn. In het geval dat de verdachte een specifieke advocaat wilt, of een eigen advocaat heeft zijn de kosten voor de verdachte.
 8. In het geval dat er geen beschikbare raadsman aanwezig is, maar de verdachte toch wenst gebruik te maken van zijn recht hierop, zal er automatisch een derde strafvermindering worden toegekend.
      
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Noordstreek (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad Noordstreek.
-3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening Noordstreek (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Deze wettenbundel (verder aangeduid als WBNS) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WBNS heeft betrekking op het vaste land, de gemeente, en de stad Noordstreek.
+3. Het WBNS is nauw verweven met de Algemene Plaatselijke Verordening Noordstreek (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
@@ -51,7 +51,7 @@
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-CVoor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
+Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
     * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
     * Voor misdrijven waar de totale strafeis tussen de 86 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
     * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 45 dagen;
@@ -62,22 +62,20 @@ CVoor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verj
     * Waarschuwingen
     * Taakstraffen
     * Celstraffen
-    * rijontzeggingen
-    * inbeslagnames of invorderingen
-    * Boetes
+    * Rijontzeggingen
+    * Inbeslagnames of invorderingen
+    * Bekeuringen
 2. Een opgelegde straf kan een combinatie zijn van de bovenstaande strafvormen.
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
-5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
-6. Indien er sprake is van meermaals gepleegde exact dezelfde strafbare feiten waarbij er sprake is van andere omstandigheden, dan wordt er voor elk extra delict 50% van de oorspronkelijke straf van het delict toegevoegd bij de totaalstraf.
-7. Er geldt een maximumcelstraf van 400 maanden. Als er volgens het wetboek meer dan 400 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 500 euro per extra maand boven de 400 maanden.
-8. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
-9. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
+5. Er geldt een maximumcelstraf van 120 maanden. Als er volgens het wetboek meer dan 120 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 500 euro per extra maand boven de 120 maanden.
+6. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
+7. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
 
 ### A5 - Strafblad
 
 1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
+2. Een strafblad blijft staan voor een periode van 2 (realtime) weken voor alle geweldsdelicten met celstraf, en 1 week voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
 3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf.
 
 ### A6 - Verduidelijking en algemene aanvulling
