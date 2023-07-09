@@ -28,10 +28,8 @@
     * U heeft het recht om de stukken in te zien, als die er zijn. De officier van Justitie kan in sommige gevallen bepalen dat dit niet mag. Hij laat u dit dan weten.
     * U heeft het recht op medische zorg indien de verdachte op korte termijn het risco loopt om te sterven of om onomkeerbare schade op te lopen aan zijn ledemaat of orgaan.
       
-  
-    Daarnaast mag de verdachte:
+Daarnaast mag de verdachte:
     * Kenbaar maken wanneer zijn/haar iets niet begrijpt.
-    * In het geval als de (H)OvJ beslist dat de verdachte op het (politie) bureau moet blijven, dan mag de verdachte vragen om een familielid of huisgenuit in te laten lichten dat u wordt vastgehouden.Soms kan de (H)OvJ beslissen dat dit tijdelijk nog niet mag. Hij laat u dit dan weten.
      
 ## Algemene Bepalingen
 
