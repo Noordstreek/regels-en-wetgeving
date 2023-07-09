@@ -15,7 +15,7 @@
 
 1. Deze grondbeginselen dienen te worden nageleefd. Indien dit niet het geval is zal er een OvJ ter sprake komen (mocht deze op dat moment niet beschikbaar zijn dient de verdachte vrijgelaten te worden).
 2. Bij een aanhouding van een verdachte dient de verdachte kenbaar gemaakt te worden wat de reden van aanhouding is.
-3. De maximaal strafmaat bedraagt 120 maanden
+3. De maximaal strafmaat bedraagt 120 maanden.
 4. Bij de aanhouding van een verdachte en vooraf aan het verhoor dient de verdachte zijn/haar rechten te horen. De mededeling van de rechten wordt opgenomen in het proces-verbaal.
    De rechten zijn al volgt:
     * U wordt verteld waarvan u wordt verdacht.
@@ -29,6 +29,10 @@
     * U heeft het recht op medische zorg indien de verdachte op korte termijn het risco loopt om te sterven of om onomkeerbare schade op te lopen aan zijn ledemaat of orgaan.
     * De verdachte mag altijd kenbaar maken wanneer zijn/haar iets niet bedrijpt.
     *  In het geval als de (H)OvJ beslist dat de verdachte op het (politie) bureau moet blijven, dan mag de verdachte vragen om een familielid of huisgenuit in te laten lichten dat u wordt vastgehouden.Soms kan de (H)OvJ beslissen dat dit tijdelijk nog niet mag. Hij laat u dit dan weten.
+  
+6. De verklaring van een beedigde opsporingsambtenaar geldt als voldoende bewijs voor een strafrechtelijke veroordeling.
+7. Indien de verdachte gebruik wilt maken van een advocaat zal er een pro-deo advocaat toegewezen worden vanuit het OM, en zullen de kosten voor de staat zijn. In het geval dat de verdachte een specifieke advocaat wilt, of een eigen advocaat heeft zijn de kosten voor de verdachte.
+8. In het geval dat er geen beschikbare raadsman aanwezig is, maar de verdachte toch wenst gebruik te maken van zijn recht hierop, zal er automatisch een derde strafvermindering worden toegekend.
      
 ## Algemene Bepalingen
 
