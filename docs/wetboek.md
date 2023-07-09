@@ -30,8 +30,8 @@
 
    Daarnaast mag de verdachte:
       * Kenbaar maken wanneer zijn/haar iets niet begrijpt.
-      * In het geval als de (H)OvJ beslist dat de verdachte op het (politie) bureau moet blijven, dan mag de verdachte vragen om een familielid of huisgenuit in te laten lichten dat u wordt vastgehouden. Soms kan de 
-        (H)OvJ beslissen dat dit tijdelijk nog niet mag. Hij laat u dit dan weten.
+      * In het geval als de (H)OvJ beslist dat de verdachte op het (politie) bureau moet blijven, dan mag de verdachte vragen om een familielid of huisgenuit in te laten lichten dat u wordt vastgehouden. 
+        Soms kan de (H)OvJ beslissen dat dit tijdelijk nog niet mag. Hij laat u dit dan weten.
     
      
 ## Algemene Bepalingen
