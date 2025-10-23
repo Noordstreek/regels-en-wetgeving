@@ -14,4 +14,4 @@ Zorg ervoor, dat je voor je deelneemt aan Noordstreek, kennis hebt genomen van d
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
 |Noordstreek RolePlay| Main discord | [Invite](https://discord.gg/noordstreek) |
-|Noordstreek Support| Support discord | [Invite](https://discord.gg/noordstreek) |
+|Noordstreek Support| Support discord | [Invite](https://discord.gg/DMEvaG2kt6) |
